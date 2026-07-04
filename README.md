@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi+I'm+Thakur+Swetha+Bai+👋;Aspiring+Data+Analyst;Business+Analyst;AI%2FML+Explorer+%26+LLM+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi+I'm+Thakur+Swetha+Bai+👋;Data+Analyst;Business+Strategist;Insight+Visualizer;AI%2FML+Explorer;LLM+Enthusiast;Data+Storyteller" alt="Typing SVG" />
 </p>
 
 <p align="center">
